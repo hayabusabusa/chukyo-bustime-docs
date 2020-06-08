@@ -6,5 +6,5 @@
 - [Github リポジトリ](https://github.com/hayabusabusa/ChukyoBustime)
 
 ## Android
-- 開発者 [m-coder](https://github.com/nanaten)
-- [Github リポジトリ]()
+- 開発者 [m.coder](https://github.com/nanaten)
+- [Github リポジトリ](https://github.com/nanaten/bustime)
