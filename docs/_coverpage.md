@@ -9,3 +9,6 @@
 <a href="https://play.google.com/store/apps"><img alt="Google Play で手に入れよう" src="https://play.google.com/intl/en_us/badges/images/generic/ja_badge_web_generic.png" width="153"/></a><a href="https://itunes.apple.com"><img src="https://linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg" alt="AppStoreで入手" height="40" style="margin:10px 10px;" /></a>
 
 -  
+
+<!-- Background Image -->
+![](_assets/bg.png)
