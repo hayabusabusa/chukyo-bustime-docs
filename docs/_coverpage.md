@@ -12,4 +12,6 @@
 -  
 
 <!-- Background Image -->
-![](_assets/bg.png)
+<!-- Issue: https://github.com/docsifyjs/docsify/issues/1233 -->
+<!-- カバー画像のマスク部分のレンダリングが遅れてしまうので、一旦カバーの画像を隠す. -->
+<!--![](_assets/bg.png)-->
