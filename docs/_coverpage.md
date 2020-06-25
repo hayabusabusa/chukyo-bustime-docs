@@ -1,6 +1,6 @@
 # 中京大学 スクールバスアプリ
 
-![logo](_assets/logo.svg)
+![logo](https://raw.githubusercontent.com/hayabusabusa/chukyo-bustime-docs/master/assets/logo.svg)
 
 > スクールバスの出発・到着時刻がリアルタイムで確認できるアプリ
 
